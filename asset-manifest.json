@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://ramasamy3488.github.io/frontend-react/static/css/main.f855e6bc.css",
+    "main.js": "https://ramasamy3488.github.io/frontend-react/static/js/main.6d688d22.js",
+    "static/js/488.0c8d78e5.chunk.js": "https://ramasamy3488.github.io/frontend-react/static/js/488.0c8d78e5.chunk.js",
+    "index.html": "https://ramasamy3488.github.io/frontend-react/index.html",
+    "main.f855e6bc.css.map": "https://ramasamy3488.github.io/frontend-react/static/css/main.f855e6bc.css.map",
+    "main.6d688d22.js.map": "https://ramasamy3488.github.io/frontend-react/static/js/main.6d688d22.js.map",
+    "488.0c8d78e5.chunk.js.map": "https://ramasamy3488.github.io/frontend-react/static/js/488.0c8d78e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6d688d22.js"
+  ]
+}
